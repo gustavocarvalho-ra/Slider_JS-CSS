@@ -66,10 +66,46 @@ body {
   margin-left: -25%;
 }
 
-#radio3:checked ~ .first {
+/* #radio3:checked ~ .first {
   margin-left: -50%;
 }
 
 #radio4:checked ~ .first {
   margin-left: -75%;
+} */
+
+/* .nav-auto div {
+  border: 2px solid #20a6ff;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .7s;
 }
+
+.nav-auto {
+  position: absolute;
+  width: 800px;
+  margin-top: 360px;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-auto div:not(:last-child) {
+  margin-right: 40px;
+}
+
+#radio1:checked ~ .nav-auto .auto-btn1 {
+  background-color: #fff;
+}
+
+#radio2:checked ~ .nav-auto .auto-btn2 {
+  background-color: #fff;
+}
+
+#radio3:checked ~ .nav-auto .auto-btn3 {
+  background-color: #fff;
+
+}
+#radio4:checked ~ .nav-auto .auto-btn4 {
+  background-color: #fff;
+} */
